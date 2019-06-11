@@ -24,6 +24,8 @@
 
 -Her isabetli atışta can miktarı %20 azalır.
 
+-tankGame klasörünün içinde oynanış videosu bulunmaktadır.
+
 ----------ENGLISH----------
 
 -Unity game engine is written in C # language.
@@ -47,3 +49,5 @@
 -Enemy tanks have life bar.
 
 -The amount of life is reduced by 20% for each accurate shot.
+
+-There is a gameplay video inside the tankGame folder.
