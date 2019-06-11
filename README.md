@@ -36,7 +36,7 @@
 
 -If the player is closer, the enemy tank will fire.
 
--AForge library is used.
+-Speed changes with fuzzy logic while tracking enemy tank.AForge library is used.
 
 -Surrounding objects have destroy with fire.
 
